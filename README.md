@@ -1,8 +1,8 @@
 👋 **Hello!**
 
-My name is Vincent. I"m a software engineer / game developer in gaming industry.🌱 Besides loving my job, I’m currently learning Android development and documenting all my learnings in my personal blog here https://vtsen.hashnode.dev/
+My name is Vincent. I"m a software engineer / game developer in gaming industry.🌱 Besides loving my job, I’m currently learning Android development and documenting all my learnings in my personal blog [here](https://vtsen.hashnode.dev/).
 
-💞️ I also document all my completed and on-going projects here: https://vtsen.hashnode.dev/projects
+💞️ I also document all my completed and on-going projects [here](https://vtsen.hashnode.dev/projects).
 
 <!---
 vinchamp77/vinchamp77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
