@@ -1,6 +1,6 @@
 👋 **Hello!**
 
-My name is Vincent. I"m a software engineer / Unity game developer in gaming industry.🌱 Besides loving my job, I’m currently learning Android development and documenting all my learnings in my personal blog [here](https://vtsen.hashnode.dev/).
+My name is Vincent. I'm a software engineer / Unity game developer in gaming industry.🌱 Besides loving my job, I’m currently learning Android development and documenting all my learnings in my personal blog [here](https://vtsen.hashnode.dev/).
 
 💞️ I also document all my completed and on-going Android projects [here](https://vtsen.hashnode.dev/projects).
 
