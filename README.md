@@ -8,6 +8,11 @@ My name is Vincent. I'm a software engineer / Unity game developer.🌱 Besides 
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Coding a Better World Together with Uncle Bob](https://vtsen.hashnode.dev/coding-a-better-world-together-with-uncle-bob)
+- [Is it Worth to Pay for Android Kotlin Developer Nanodegree?](https://vtsen.hashnode.dev/is-it-worth-to-pay-for-android-kotlin-developer-nanodegree)
+- [Replace fragment tag with FragmentContainerView Causing Runtime Error](https://vtsen.hashnode.dev/replace-fragment-tag-with-fragmentcontainerview-causing-runtime-error)
+- [Android Kotlin Developer Nanodegree Projects Review](https://vtsen.hashnode.dev/android-kotlin-developer-nanodegree-projects-review)
+- [DataBindingUtil.inflate vs View Binding Inflate](https://vtsen.hashnode.dev/databindingutilinflate-vs-view-binding-inflate)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
