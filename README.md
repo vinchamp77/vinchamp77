@@ -10,11 +10,11 @@ My name is Vincent. I'm a software engineer / Unity game developer.🌱 Besides 
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Way to Understand Kotlin Scope Functions - let, run, with, apply, also](https://vtsen.hashnode.dev/simple-way-to-understand-kotlin-scope-functions-let-run-with-apply-also)
 - [Step-by-step Guides to add Android App Icon](https://vtsen.hashnode.dev/step-by-step-guides-to-add-android-app-icon)
 - [How to Declare Variables in Android String Resources?](https://vtsen.hashnode.dev/how-to-declare-variables-in-android-string-resources)
 - [Coding a Better World Together with Uncle Bob](https://vtsen.hashnode.dev/coding-a-better-world-together-with-uncle-bob)
 - [Is it Worth to Pay for Android Kotlin Developer Nanodegree?](https://vtsen.hashnode.dev/is-it-worth-to-pay-for-android-kotlin-developer-nanodegree)
-- [Replace fragment tag with FragmentContainerView Causing Runtime Error](https://vtsen.hashnode.dev/replace-fragment-tag-with-fragmentcontainerview-causing-runtime-error)
 <!-- BLOG-POST-LIST:END -->
 
 ---
