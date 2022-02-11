@@ -10,11 +10,11 @@ My name is Vincent. I'm a software engineer / Unity game developer.🌱 Besides 
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MVC vs MVP vs MVVM Design Patterns](https://vtsen.hashnode.dev/mvc-vs-mvp-vs-mvvm-design-patterns)
 - [How to Implement Hilt in Android App?](https://vtsen.hashnode.dev/how-to-implement-hilt-in-android-app)
 - [How to Show Library Dependency Tree in Android Studio?](https://vtsen.hashnode.dev/how-to-show-library-dependency-tree-in-android-studio)
 - [Understand Kotlin Function Literal with Receiver by Example](https://vtsen.hashnode.dev/understand-kotlin-function-literal-with-receiver-by-example)
 - [How to Resolve Missing Clear Source of Information - Disclaimer App Rejection?](https://vtsen.hashnode.dev/how-to-resolve-missing-clear-source-of-information-disclaimer-app-rejection)
-- [Simple Way to Understand Kotlin Scope Functions - let, run, with, apply, also](https://vtsen.hashnode.dev/simple-way-to-understand-kotlin-scope-functions-let-run-with-apply-also)
 <!-- BLOG-POST-LIST:END -->
 
 ---
