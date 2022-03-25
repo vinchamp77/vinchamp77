@@ -10,11 +10,11 @@ My name is Vincent. I'm a software engineer / Unity game developer.🌱 Besides 
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Kotlin Coroutines Basics - Simple Android App Demo](https://vtsen.hashnode.dev/kotlin-coroutines-basics-simple-android-app-demo)
 - [Jetpack Compose Crash Course from Udemy Reviews](https://vtsen.hashnode.dev/jetpack-compose-crash-course-from-udemy-reviews)
 - [Can&#39;t Uninstall Android Studio in Windows?](https://vtsen.hashnode.dev/cant-uninstall-android-studio-in-windows)
 - [How to Publish Android Library on JitPack.io with GitHub?](https://vtsen.hashnode.dev/how-to-publish-android-library-on-jitpackio-with-github)
 - [Convert RecycleView to LazyColumn - Jetpack Compose](https://vtsen.hashnode.dev/convert-recycleview-to-lazycolumn-jetpack-compose)
-- [Step-by-step Guides to Implement RecycleView](https://vtsen.hashnode.dev/step-by-step-guides-to-implement-recycleview)
 <!-- BLOG-POST-LIST:END -->
 
 ---
