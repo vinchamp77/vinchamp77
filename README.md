@@ -6,6 +6,15 @@ My name is Vincent. I'm a C# software engineer / Unity game developer.🌱 Besid
 
 📫 I'm also available at [Twitter](https://twitter.com/vinchamp77), [Hashnode](https://hashnode.com/@vtsen), [Medium](https://vtsen.medium.com/), and [Dev.to](https://dev.to/vtsen). Let's connect and be friends! We should all learn and grow together!
 
+
+---
+### Android Apps
+
+[Android News](https://github.com/vinchamp77/AndroidNews) | [Malaysian Sydney Food](https://github.com/vinchamp77/MalaysianSydneyFood) | [US Election Info](https://github.com/vinchamp77/USElectionInfo) | [Meditation Timer](https://github.com/vinchamp77/MeditationTimer)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/vinchamp77/AndroidNews/blob/master/screenshots/Android_News_Overview.gif" width="200" height="400" /> | <img src="https://github.com/vinchamp77/MalaysianSydneyFood/blob/master/app/src/main/malaysian_sydney_food_app.gif" width="200" height="400" /> | <img src="https://github.com/vinchamp77/USElectionInfo/blob/master/app/src/main/completed_android_kotlin_developer_nanodegree_projects_05.gif" width="200" height="400" /> |  <img src="https://github.com/vinchamp77/MeditationTimer/blob/master/app/src/main/meditation_timer_screenshot_animation.gif" width="200" height="400" />
+
+
 ---
 
 ### 📝 Latest Blog Posts
