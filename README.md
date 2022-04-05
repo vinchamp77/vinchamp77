@@ -18,7 +18,7 @@ My name is Vincent. I'm a C# software engineer / Unity game developer.🌱 Besid
 :-------------------------:|:-------------------------:
 <img src="https://github.com/vinchamp77/AndroidNews/blob/master/screenshots/Android_News_Overview.gif" width="150" height="300" /> | <img src="https://github.com/vinchamp77/MalaysianSydneyFood/blob/master/app/src/main/malaysian_sydney_food_app.gif" width="150" height="300" /> 
 [US Election Info](https://github.com/vinchamp77/USElectionInfo) | [Meditation Timer](https://github.com/vinchamp77/MeditationTimer)
-<img src="https://github.com/vinchamp77/USElectionInfo/blob/master/app/src/main/completed_android_kotlin_developer_nanodegree_projects_05.gif" width="150" height="300" /> |  <img src="https://github.com/vinchamp77/MeditationTimer/blob/master/app/src/main/meditation_timer_screenshot_animation.gif" width="150" height="300" />
+<img src="https://github.com/vinchamp77/USElectionInfo/blob/master/app/src/main/completed_android_kotlin_developer_nanodegree_projects_05.gif" width="150" height="300" /> | <img src="https://github.com/vinchamp77/MeditationTimer/blob/master/app/src/main/meditation_timer_screenshot_animation.gif" width="150" height="300" />
 
 ### 📱 Demo Apps
 [RecycleView / Lazy Column](https://github.com/vinchamp77/Demo_SimpleRecycleView) | [Coroutines Basics](https://github.com/vinchamp77/Demo_CoroutinesBasics)
