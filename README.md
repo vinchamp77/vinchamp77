@@ -1,7 +1,3 @@
-.table-wrapper {
-  overflow-x: scroll;
-}
-
 ### 👋 Hello!
 
 My name is Vincent. I'm a C# software engineer / Unity game developer.🌱 Besides loving my job, I’m currently learning Android development and documenting all my learnings on my personal blog - [Android Kotlin Weekly](https://vtsen.hashnode.dev/).
