@@ -1,3 +1,7 @@
+.table-wrapper {
+  overflow-x: scroll;
+}
+
 ### 👋 Hello!
 
 My name is Vincent. I'm a C# software engineer / Unity game developer.🌱 Besides loving my job, I’m currently learning Android development and documenting all my learnings on my personal blog - [Android Kotlin Weekly](https://vtsen.hashnode.dev/).
@@ -10,9 +14,11 @@ My name is Vincent. I'm a C# software engineer / Unity game developer.🌱 Besid
 ---
 ### 📱 Android Apps
 
-[Android News](https://github.com/vinchamp77/AndroidNews) | [Malaysian Sydney Food](https://github.com/vinchamp77/MalaysianSydneyFood) | [US Election Info](https://github.com/vinchamp77/USElectionInfo) | [Meditation Timer](https://github.com/vinchamp77/MeditationTimer)
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/vinchamp77/AndroidNews/blob/master/screenshots/Android_News_Overview.gif" width="200" height="400" /> | <img src="https://github.com/vinchamp77/MalaysianSydneyFood/blob/master/app/src/main/malaysian_sydney_food_app.gif" width="200" height="400" /> | <img src="https://github.com/vinchamp77/USElectionInfo/blob/master/app/src/main/completed_android_kotlin_developer_nanodegree_projects_05.gif" width="200" height="400" /> |  <img src="https://github.com/vinchamp77/MeditationTimer/blob/master/app/src/main/meditation_timer_screenshot_animation.gif" width="200" height="400" />
+[Android News](https://github.com/vinchamp77/AndroidNews) | [Malaysian Sydney Food](https://github.com/vinchamp77/MalaysianSydneyFood)
+:-------------------------:|:-------------------------:
+<img src="https://github.com/vinchamp77/AndroidNews/blob/master/screenshots/Android_News_Overview.gif" width="200" height="400" /> | <img src="https://github.com/vinchamp77/MalaysianSydneyFood/blob/master/app/src/main/malaysian_sydney_food_app.gif" width="200" height="400" /> 
+[US Election Info](https://github.com/vinchamp77/USElectionInfo) | [Meditation Timer](https://github.com/vinchamp77/MeditationTimer)
+<img src="https://github.com/vinchamp77/USElectionInfo/blob/master/app/src/main/completed_android_kotlin_developer_nanodegree_projects_05.gif" width="200" height="400" /> |  <img src="https://github.com/vinchamp77/MeditationTimer/blob/master/app/src/main/meditation_timer_screenshot_animation.gif" width="200" height="400" />
 
 ### 📱 Demo Apps
 [RecycleView / Lazy Column](https://github.com/vinchamp77/Demo_SimpleRecycleView) | [Coroutines Basics](https://github.com/vinchamp77/Demo_CoroutinesBasics)
