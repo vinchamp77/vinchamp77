@@ -22,6 +22,7 @@ My name is Vincent. I'm a C# software engineer / Unity game developer.🌱 Besid
 <img src="https://github.com/vinchamp77/Demo_SimpleRecycleView/blob/master/screenshots/Android_RecycleView_Demo_01.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/Demo_CoroutinesBasics/blob/master/screenshots/Kotlin_Coroutines_Basics_Simple_Android_App_Demo_01.gif" width="200" height="350" />
 ### 📚 Others
 - [Simple Android Library](https://github.com/vinchamp77/demo-simple-android-lib) (JitIPack.io)
+- [Android Kotlin Developer NanoDegree Projects](https://vtsen.hashnode.dev/android-kotlin-developer-nanodegree-projects-review)
 
 ---
 
