@@ -28,11 +28,11 @@ My name is Vincent. I'm a C# software engineer / Unity game developer.🌱 Besid
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Disable Auto Off in Android Emulator?](https://vtsen.hashnode.dev/how-to-disable-auto-off-in-android-emulator)
 - [kotlinx.coroutines.delay&lpar;&rpar; vs Thread.sleep&lpar;&rpar;](https://vtsen.hashnode.dev/kotlinxcoroutinesdelay-vs-threadsleep)
 - [Why Fail-fast Offensive Programming is better?](https://vtsen.hashnode.dev/why-fail-fast-offensive-programming-is-better)
 - [Kotlin Coroutines Basics - Simple Android App Demo](https://vtsen.hashnode.dev/kotlin-coroutines-basics-simple-android-app-demo)
 - [Jetpack Compose Crash Course from Udemy Reviews](https://vtsen.hashnode.dev/jetpack-compose-crash-course-from-udemy-reviews)
-- [Can&#39;t Uninstall Android Studio in Windows?](https://vtsen.hashnode.dev/cant-uninstall-android-studio-in-windows)
 <!-- BLOG-POST-LIST:END -->
 
 ---
