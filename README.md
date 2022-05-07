@@ -24,6 +24,7 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 <img src="https://github.com/vinchamp77/Demo_CoroutinesBasics/blob/master/screenshots/Kotlin_Coroutines_Basics_Simple_Android_App_Demo_01.gif" width="200" height="350" /> | |
 
 ### 📚 Other Apps
+- [Clean Empty Jetpack Compose App Template](https://github.com/vinchamp77/Demo_CleanEmptyCompose)
 - [Simple Android Library](https://github.com/vinchamp77/demo-simple-android-lib) (JitIPack.io)
 - [Android Kotlin Developer NanoDegree Projects](https://vtsen.hashnode.dev/android-kotlin-developer-nanodegree-projects-review)
 
