@@ -32,11 +32,11 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 ### 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Simple REST API Android App in Kotlin - Various HTTP Client Library Implementations](https://vtsen.hashnode.dev/simple-rest-api-android-app-in-kotlin-various-http-client-library-implementations)
 - [Clean Empty Jetpack Compose App Template](https://vtsen.hashnode.dev/clean-empty-jetpack-compose-app-template)
 - [Compose Destinations - Navigation Library](https://vtsen.hashnode.dev/compose-destinations-navigation-library)
 - [Simple Jetpack Compose Navigation Example](https://vtsen.hashnode.dev/simple-jetpack-compose-navigation-example)
 - [How to Disable Auto Off in Android Emulator?](https://vtsen.hashnode.dev/how-to-disable-auto-off-in-android-emulator)
+- [kotlinx.coroutines.delay&lpar;&rpar; vs Thread.sleep&lpar;&rpar;](https://vtsen.hashnode.dev/kotlinxcoroutinesdelay-vs-threadsleep)
 <!-- BLOG-POST-LIST:END -->
 
 ---
