@@ -17,7 +17,7 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 <img src="https://github.com/vinchamp77/USElectionInfo/blob/master/app/src/main/completed_android_kotlin_developer_nanodegree_projects_05.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/MeditationTimer/blob/master/app/src/main/meditation_timer_screenshot_animation.gif" width="200" height="350" />
 
 ### 📱 Demo Apps
-[Simple REST API](https://github.com/vinchamp77/Demo_SimpleRestAPI/blob/master/README.md) | [Compose Navigation](https://github.com/vinchamp77/Demo_SimpleNavigationCompose)
+[Simple REST API](https://github.com/vinchamp77/Demo_SimpleRestAPI) | [Compose Navigation](https://github.com/vinchamp77/Demo_SimpleNavigationCompose)
 :-------------------------:|:-------------------------:
 <img src="https://github.com/vinchamp77/Demo_SimpleRestAPI/blob/master/screenshots/Simple_REST_API_Android_App_in_Kotlin_01.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/Demo_SimpleNavigationCompose/blob/master/screenshots/Simple_Jetpack_Compose_Navigation_Example_01.gif" width="200" height="350" />
 [RecycleView / Lazy Column](https://github.com/vinchamp77/Demo_SimpleRecycleView) | [Coroutines Basics](https://github.com/vinchamp77/Demo_CoroutinesBasics) |
