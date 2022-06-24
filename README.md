@@ -30,11 +30,11 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [My Most Used Android Studio Shortcut Keys](https://vtsen.hashnode.dev/my-most-used-android-studio-shortcut-keys)
 - [Free and Useful Tools for Android Development and Blogging](https://vtsen.hashnode.dev/free-and-useful-tools-for-android-development-and-blogging)
 - [How to add opt-in compiler argument in build.gradle?](https://vtsen.hashnode.dev/how-to-add-opt-in-compiler-argument-in-buildgradle)
 - [How to Add Bottom Navigation in Jetpack Compose?](https://vtsen.hashnode.dev/how-to-add-bottom-navigation-in-jetpack-compose)
 - [Missing Run Test in Android Studio](https://vtsen.hashnode.dev/missing-run-test-in-android-studio)
+- [How to Create Singleton Class in Kotlin?](https://vtsen.hashnode.dev/how-to-create-singleton-class-in-kotlin)
 <!-- BLOG-POST-LIST:END -->
 
 ---
