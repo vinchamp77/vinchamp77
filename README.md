@@ -30,11 +30,11 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understand Kotlin Multiple Constructors](https://vtsen.hashnode.dev/understand-kotlin-multiple-constructors)
 - [Convert View Model to Use Hilt Dependency Injection](https://vtsen.hashnode.dev/convert-view-model-to-use-hilt-dependency-injection)
 - [Free Android Development Learning Resources for Beginners](https://vtsen.hashnode.dev/free-android-development-learning-resources-for-beginners)
 - [Kotlin Smart Cast is Awesome!](https://vtsen.hashnode.dev/kotlin-smart-cast-is-awesome)
 - [My Most Used Android Studio Shortcut Keys](https://vtsen.hashnode.dev/my-most-used-android-studio-shortcut-keys)
-- [Free and Useful Tools for Android Development and Blogging](https://vtsen.hashnode.dev/free-and-useful-tools-for-android-development-and-blogging)
 <!-- BLOG-POST-LIST:END -->
 
 ---
