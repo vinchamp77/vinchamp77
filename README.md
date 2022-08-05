@@ -8,7 +8,7 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 ---
 ## 📱 Android Apps
 
-[RSS Feed Reader](https://github.com/vinchamp77/AndroidNews) | [Malaysian Sydney Food](https://github.com/vinchamp77/MalaysianSydneyFood)
+[Android Kotlin Weekly](https://github.com/vinchamp77/AndroidNews) | [Malaysian Sydney Food](https://github.com/vinchamp77/MalaysianSydneyFood)
 :-------------------------:|:-------------------------:
 <img src="https://github.com/vinchamp77/AndroidNews/blob/master/screenshots/Android_News_Overview.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/MalaysianSydneyFood/blob/master/app/src/main/malaysian_sydney_food_app.gif" width="200" height="350" /> 
 [US Election Info](https://github.com/vinchamp77/USElectionInfo) | [Meditation Timer](https://github.com/vinchamp77/MeditationTimer)
