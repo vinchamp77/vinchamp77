@@ -34,11 +34,11 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Google Map App - Jetpack Compose](https://vtsen.hashnode.dev/simple-google-map-app-jetpack-compose)
 - [What is Trailing Lambda and Comma in Kotlin?](https://vtsen.hashnode.dev/what-is-trailing-lambda-and-comma-in-kotlin)
 - [Understand Fields and Properties in Kotlin](https://vtsen.hashnode.dev/understand-fields-and-properties-in-kotlin)
 - [Understand Kotlin Multiple Constructors](https://vtsen.hashnode.dev/understand-kotlin-multiple-constructors)
 - [Convert View Model to Use Hilt Dependency Injection](https://vtsen.hashnode.dev/convert-view-model-to-use-hilt-dependency-injection)
-- [Free Android Development Learning Resources for Beginners](https://vtsen.hashnode.dev/free-android-development-learning-resources-for-beginners)
 <!-- BLOG-POST-LIST:END -->
 
 ---
