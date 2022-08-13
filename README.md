@@ -20,6 +20,10 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 <img src="https://github.com/vinchamp77/Demo_SimpleRestAPI/blob/master/screenshots/Simple_REST_API_Android_App_in_Kotlin_01.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/Demo_SimpleNavigationCompose/blob/master/screenshots/Simple_Jetpack_Compose_Navigation_Example_01.gif" width="200" height="350" />
 [RecycleView / Lazy Column](https://github.com/vinchamp77/Demo_SimpleRecycleView) | [Coroutines Basics](https://github.com/vinchamp77/Demo_CoroutinesBasics) |
 <img src="https://github.com/vinchamp77/Demo_SimpleRecycleView/blob/master/screenshots/Android_RecycleView_Demo_01.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/Demo_CoroutinesBasics/blob/master/screenshots/Kotlin_Coroutines_Basics_Simple_Android_App_Demo_01.gif" width="200" height="350" /> |
+[Simple Google Map](https://github.com/vinchamp77/Demo_SimpleGoogleMap) ||
+<img src="https://github.com/vinchamp77/Demo_SimpleGoogleMap/blob/master/screenshots/Simple_Google_Map_App_Jetpack_Compose_01.gif" width="200" height="350" /> | |
+
+
 
 ## 📚 Other Apps
 - [Clean Empty Jetpack Compose App Template](https://github.com/vinchamp77/Demo_CleanEmptyCompose)
