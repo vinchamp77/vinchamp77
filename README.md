@@ -37,11 +37,11 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Navigation Drawer in Jetpack Compose?](https://vtsen.hashnode.dev/how-to-add-navigation-drawer-in-jetpack-compose)
 - [Prefer Function Reference over Lambda in Kotlin? Wrong!](https://vtsen.hashnode.dev/prefer-function-reference-over-lambda-in-kotlin-wrong)
 - [Simple RSS Feed Reader - Jetpack Compose](https://vtsen.hashnode.dev/simple-rss-feed-reader-jetpack-compose)
 - [Best Way to Learn for Self-taught Android developer](https://vtsen.hashnode.dev/best-way-to-learn-for-self-taught-android-developer)
 - [Why I Failed Badly in an Internal Interview?](https://vtsen.hashnode.dev/why-i-failed-badly-in-an-internal-interview)
-- [Simple Google Map App - Jetpack Compose](https://vtsen.hashnode.dev/simple-google-map-app-jetpack-compose)
 <!-- BLOG-POST-LIST:END -->
 
 ---
