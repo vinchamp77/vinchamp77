@@ -29,7 +29,7 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 
 ## 📚 Other Apps
-- [Android Lifecycle Demo App](https://github.com/vinchamp77/Demo_UnderstandLifecycles)
+- [Android Lifecycles Demo App](https://github.com/vinchamp77/Demo_UnderstandLifecycles)
 - [Clean Empty Jetpack Compose App Template](https://github.com/vinchamp77/Demo_CleanEmptyCompose)
 - [Simple Android Library](https://github.com/vinchamp77/demo-simple-android-lib) (JitIPack.io)
 - [Android Kotlin Developer NanoDegree Projects](https://vtsen.hashnode.dev/android-kotlin-developer-nanodegree-projects-review)
