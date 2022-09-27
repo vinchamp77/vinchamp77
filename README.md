@@ -8,11 +8,11 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 ---
 ## 📱 Android Apps
 
-[Numbers](https://github.com/vinchamp77/Numbers) | [QR Code Scanner](https://github.com/vinchamp77/QRCodeScanner)
-:-------------------------:|:-------------------------:
-<img src="https://github.com/vinchamp77/Numbers/blob/master/screenshots/Screenshot_01_small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/QRCodeScanner/blob/master/screenshots/Screenshot_03_small.png" width="200" height="350" />
 [Android Kotlin Weekly](https://github.com/vinchamp77/AndroidNews) | [Malaysian Sydney Food](https://github.com/vinchamp77/MalaysianSydneyFood)
+:-------------------------:|:-------------------------:
 <img src="https://github.com/vinchamp77/AndroidNews/blob/master/screenshots/Android_News_Overview.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/MalaysianSydneyFood/blob/master/app/src/main/malaysian_sydney_food_app.gif" width="200" height="350" /> 
+[Numbers](https://github.com/vinchamp77/Numbers) | [QR Code Scanner](https://github.com/vinchamp77/QRCodeScanner)
+<img src="https://github.com/vinchamp77/Numbers/blob/master/screenshots/Screenshot_01_small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/QRCodeScanner/blob/master/screenshots/Screenshot_03_small.png" width="200" height="350" />
 [US Election Info](https://github.com/vinchamp77/USElectionInfo) | [Meditation Timer](https://github.com/vinchamp77/MeditationTimer)
 <img src="https://github.com/vinchamp77/USElectionInfo/blob/master/app/src/main/completed_android_kotlin_developer_nanodegree_projects_05.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/MeditationTimer/blob/master/app/src/main/meditation_timer_screenshot_animation.gif" width="200" height="350" />
 
