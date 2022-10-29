@@ -40,11 +40,11 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Kotlin Flows and Channels](https://vtsen.hashnode.dev/introduction-to-kotlin-flows-and-channels)
 - [Exploring Android LiveData Usages and Behaviors](https://vtsen.hashnode.dev/exploring-android-livedata-usages-and-behaviors)
 - [How to Simulate Process Death in Android?](https://vtsen.hashnode.dev/how-to-simulate-process-death-in-android)
 - [Normal Variable vs remember vs remember mutabableStateOf Comparisons](https://vtsen.hashnode.dev/normal-variable-vs-remember-vs-remember-mutabablestateof-comparisons)
 - [View Model Creation in Jetpack Compose](https://vtsen.hashnode.dev/view-model-creation-in-jetpack-compose)
-- [Activity and View Model Lifecycles Demo App](https://vtsen.hashnode.dev/activity-and-view-model-lifecycles-demo-app)
 <!-- BLOG-POST-LIST:END -->
 
 ---
