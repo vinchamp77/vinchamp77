@@ -36,6 +36,7 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 
 ## 🕮 Android Libraries
+- [Android Build Utilities](https://github.com/vinchamp77/buildutils)
 - [Simple Android Library](https://github.com/vinchamp77/demo-simple-android-lib) (JitIPack.io) - demo
 
 ---
