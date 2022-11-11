@@ -43,11 +43,11 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implement Kotlin Interfaces with SAM conversions](https://vtsen.hashnode.dev/implement-kotlin-interfaces-with-sam-conversions)
 - [How to Take Screenshot from Android Emulator?](https://vtsen.hashnode.dev/how-to-take-screenshot-from-android-emulator)
 - [Introduction to Kotlin Flows and Channels](https://vtsen.hashnode.dev/introduction-to-kotlin-flows-and-channels)
 - [Exploring Android LiveData Usages and Behaviors](https://vtsen.hashnode.dev/exploring-android-livedata-usages-and-behaviors)
 - [How to Simulate Process Death in Android?](https://vtsen.hashnode.dev/how-to-simulate-process-death-in-android)
-- [Normal Variable vs remember vs remember mutabableStateOf Comparisons](https://vtsen.hashnode.dev/normal-variable-vs-remember-vs-remember-mutabablestateof-comparisons)
 <!-- BLOG-POST-LIST:END -->
 
 ---
