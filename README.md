@@ -44,11 +44,11 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [GlobalScope vs viewModelScope vs lifecycleScope vs rememberCoroutineScope](https://vtsen.hashnode.dev/globalscope-vs-viewmodelscope-vs-lifecyclescope-vs-remembercoroutinescope)
 - [Understand &quot;by&quot; Delegated Properties in Kotlin](https://vtsen.hashnode.dev/understand-by-delegated-properties-in-kotlin)
 - [Implement Kotlin Interfaces with SAM conversions](https://vtsen.hashnode.dev/implement-kotlin-interfaces-with-sam-conversions)
 - [How to Take Screenshot from Android Emulator?](https://vtsen.hashnode.dev/how-to-take-screenshot-from-android-emulator)
 - [Introduction to Kotlin Flows and Channels](https://vtsen.hashnode.dev/introduction-to-kotlin-flows-and-channels)
-- [Exploring Android LiveData Usages and Behaviors](https://vtsen.hashnode.dev/exploring-android-livedata-usages-and-behaviors)
 <!-- BLOG-POST-LIST:END -->
 
 ---
