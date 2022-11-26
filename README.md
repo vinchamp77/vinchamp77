@@ -28,7 +28,7 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 
 ## 📚 Other Apps
-- [Understand CoroutineScope Demo App](Understand CoroutineScope Demo App)
+- [Understand CoroutineScope Demo App](https://github.com/vinchamp77/Demo_CoroutineScope)
 - [Asynchronous Flow Demo App](https://github.com/vinchamp77/Demo_AsyncFlow)
 - [Understand Compose Concept](https://github.com/vinchamp77/Demo_UnderstandComposeConcept)
 - [Activity & View Model Lifecycles Demo App](https://github.com/vinchamp77/Demo_UnderstandLifecycles)
