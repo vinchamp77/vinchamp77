@@ -44,11 +44,11 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Convert Android Gradle Groovy to KTS?](https://vtsen.hashnode.dev/how-to-convert-android-gradle-groovy-to-kts)
 - [launchWhenCreated&lpar;&rpar; vs launchWhenStarted&lpar;&rpar; vs launchWhenResumed&lpar;&rpar; vs repeatOnLifeCycle&lpar;&rpar;](https://vtsen.hashnode.dev/launchwhencreated-vs-launchwhenstarted-vs-launchwhenresumed-vs-repeatonlifecycle)
 - [GlobalScope vs viewModelScope vs lifecycleScope vs rememberCoroutineScope](https://vtsen.hashnode.dev/globalscope-vs-viewmodelscope-vs-lifecyclescope-vs-remembercoroutinescope)
 - [Understand &quot;by&quot; Delegated Properties in Kotlin](https://vtsen.hashnode.dev/understand-by-delegated-properties-in-kotlin)
 - [Implement Kotlin Interfaces with SAM conversions](https://vtsen.hashnode.dev/implement-kotlin-interfaces-with-sam-conversions)
-- [How to Take Screenshot from Android Emulator?](https://vtsen.hashnode.dev/how-to-take-screenshot-from-android-emulator)
 <!-- BLOG-POST-LIST:END -->
 
 ---
