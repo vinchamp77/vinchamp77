@@ -51,6 +51,16 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 - [launchWhenCreated&lpar;&rpar; vs launchWhenStarted&lpar;&rpar; vs launchWhenResumed&lpar;&rpar; vs repeatOnLifeCycle&lpar;&rpar;](https://vtsen.hashnode.dev/launchwhencreated-vs-launchwhenstarted-vs-launchwhenresumed-vs-repeatonlifecycle)
 <!-- BLOG-POST-LIST:END -->
 
+## ✨ Featured Articles
+[![](https://androidweekly.net/issues/issue-533/badge)](https://androidweekly.net/issues/issue-533) 
+- [What is Trailing Lambda and Comma in Kotlin?](https://vtsen.hashnode.dev/what-is-trailing-lambda-and-comma-in-kotlin)
+
+[![](https://androidweekly.net/issues/issue-530/badge)](https://androidweekly.net/issues/issue-530) 
+- [Convert View Model to Use Hilt Dependency Injection](https://vtsen.hashnode.dev/convert-view-model-to-use-hilt-dependency-injection)
+
+[![](https://androidweekly.net/issues/issue-525/badge)](https://androidweekly.net/issues/issue-525) 
+- [How to add opt-in compiler argument in build.gradle?](https://vtsen.hashnode.dev/how-to-add-opt-in-compiler-argument-in-buildgradle)
+
 ---
 
 ![Vincent Tsen's github stats](https://github-readme-stats.vercel.app/api?username=vinchamp77&show_icons=true&count_private=true&hide=issues,prs)
