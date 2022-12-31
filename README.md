@@ -52,14 +52,12 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Featured Articles
-[![](https://androidweekly.net/issues/issue-533/badge)](https://androidweekly.net/issues/issue-533) 
-- [What is Trailing Lambda and Comma in Kotlin?](https://vtsen.hashnode.dev/what-is-trailing-lambda-and-comma-in-kotlin)
-
-[![](https://androidweekly.net/issues/issue-530/badge)](https://androidweekly.net/issues/issue-530) 
-- [Convert View Model to Use Hilt Dependency Injection](https://vtsen.hashnode.dev/convert-view-model-to-use-hilt-dependency-injection)
-
-[![](https://androidweekly.net/issues/issue-525/badge)](https://androidweekly.net/issues/issue-525) 
+- [What is Trailing Lambda and Comma in Kotlin?](https://vtsen.hashnode.dev/what-is-trailing-lambda-and-comma-in-kotlin) [![](https://androidweekly.net/issues/issue-533/badge)](https://androidweekly.net/issues/issue-533) 
+- [Convert View Model to Use Hilt Dependency Injection](https://vtsen.hashnode.dev/convert-view-model-to-use-hilt-dependency-injection) [![](https://androidweekly.net/issues/issue-530/badge)](https://androidweekly.net/issues/issue-530) 
 - [How to add opt-in compiler argument in build.gradle?](https://vtsen.hashnode.dev/how-to-add-opt-in-compiler-argument-in-buildgradle)
+ [![](https://androidweekly.net/issues/issue-525/badge)](https://androidweekly.net/issues/issue-525) 
+
+You may also want to check out my [Top 5 Most-read Articles](https://vtsen.hashnode.dev/top-5-articles).
 
 ---
 
