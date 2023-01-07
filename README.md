@@ -15,7 +15,7 @@ N/A | ![](https://github.com/vinchamp77/YoutubeWorkouts/blob/master/screenshots/
 [Numbers](https://github.com/vinchamp77/Numbers) | [QR Code Scanner](https://github.com/vinchamp77/QRCodeScanner)
 ![](https://github.com/vinchamp77/Numbers/blob/master/screenshots/Screenshot_01_small.png) | ![](https://github.com/vinchamp77/QRCodeScanner/blob/master/screenshots/Screenshot_03_small.png)
 [US Election Info](https://github.com/vinchamp77/USElectionInfo) | [Meditation Timer](https://github.com/vinchamp77/MeditationTimer)
-<img src="https://github.com/vinchamp77/USElectionInfo/blob/master/app/src/main/completed_android_kotlin_developer_nanodegree_projects_05.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/MeditationTimer/blob/master/app/src/main/meditation_timer_screenshot_animation.gif" width="200" height="350" />
+![](https://github.com/vinchamp77/USElectionInfo/blob/master/screenshots/ScreenShot04_Small.png) | ![](https://github.com/vinchamp77/MeditationTimer/blob/master/screenshots/ScreenShot_01_Small.png)
 
 ## 🕮 Android Libraries
 - [Android Build Utilities](https://github.com/vinchamp77/buildutils)
