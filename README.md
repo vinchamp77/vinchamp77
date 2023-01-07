@@ -8,8 +8,10 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 ---
 ## 📱 Android Apps
 
-[Android Kotlin Weekly](https://github.com/vinchamp77/AndroidNews) | [Malaysian Sydney Food](https://github.com/vinchamp77/MalaysianSydneyFood)
+N/A | [YouTube Workouts](https://github.com/vinchamp77/YoutubeWorkout)
 :-------------------------:|:-------------------------:
+N/A | <img src="https://github.com/vinchamp77/YoutubeWorkouts/blob/master/screenshots/Screenshot_01.png" width="200" height="350" /> 
+[Android Kotlin Weekly](https://github.com/vinchamp77/AndroidNews) | [Malaysian Sydney Food](https://github.com/vinchamp77/MalaysianSydneyFood)
 <img src="https://github.com/vinchamp77/AndroidNews/blob/master/screenshots/Android_News_Overview.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/MalaysianSydneyFood/blob/master/app/src/main/malaysian_sydney_food_app.gif" width="200" height="350" /> 
 [Numbers](https://github.com/vinchamp77/Numbers) | [QR Code Scanner](https://github.com/vinchamp77/QRCodeScanner)
 <img src="https://github.com/vinchamp77/Numbers/blob/master/screenshots/Screenshot_01_small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/QRCodeScanner/blob/master/screenshots/Screenshot_03_small.png" width="200" height="350" />
@@ -18,13 +20,13 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 
 
 ## 📱 Demo Apps
-[Simple REST API](https://github.com/vinchamp77/Demo_SimpleRestAPI) | [Compose Navigation](https://github.com/vinchamp77/Demo_SimpleNavigationCompose)
+N/A | [Simple Google Map](https://github.com/vinchamp77/Demo_SimpleGoogleMap) |
 :-------------------------:|:-------------------------:
+N/A | <img src="https://github.com/vinchamp77/Demo_SimpleGoogleMap/blob/master/screenshots/Simple_Google_Map_App_Jetpack_Compose_01.gif" width="200" height="350" /> |
+[Simple REST API](https://github.com/vinchamp77/Demo_SimpleRestAPI) | [Compose Navigation](https://github.com/vinchamp77/Demo_SimpleNavigationCompose)
 <img src="https://github.com/vinchamp77/Demo_SimpleRestAPI/blob/master/screenshots/Simple_REST_API_Android_App_in_Kotlin_01.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/Demo_SimpleNavigationCompose/blob/master/screenshots/Simple_Jetpack_Compose_Navigation_Example_01.gif" width="200" height="350" />
 [RecycleView / Lazy Column](https://github.com/vinchamp77/Demo_SimpleRecycleView) | [Coroutines Basics](https://github.com/vinchamp77/Demo_CoroutinesBasics) |
 <img src="https://github.com/vinchamp77/Demo_SimpleRecycleView/blob/master/screenshots/Android_RecycleView_Demo_01.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/Demo_CoroutinesBasics/blob/master/screenshots/Kotlin_Coroutines_Basics_Simple_Android_App_Demo_01.gif" width="200" height="350" /> |
-[Simple Google Map](https://github.com/vinchamp77/Demo_SimpleGoogleMap) ||
-<img src="https://github.com/vinchamp77/Demo_SimpleGoogleMap/blob/master/screenshots/Simple_Google_Map_App_Jetpack_Compose_01.gif" width="200" height="350" /> | |
 
 
 ## 📚 Other Apps
