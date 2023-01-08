@@ -7,15 +7,11 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 ---
 ## 📱 Android Apps
 
-N/A | [YouTube Workouts](https://github.com/vinchamp77/YoutubeWorkout)
-:-------------------------:|:-------------------------:
-N/A | <img src="https://github.com/vinchamp77/YoutubeWorkouts/blob/master/screenshots/Screenshot_01_small.png" width="200" height="350" />
-[Android Kotlin Weekly](https://github.com/vinchamp77/AndroidNews) | [Malaysian Sydney Food](https://github.com/vinchamp77/MalaysianSydneyFood)
-<img src="https://github.com/vinchamp77/AndroidNews/blob/master/screenshots/Screenshot_01_Small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/MalaysianSydneyFood/blob/master/screenshots/ScreenShot_01_Small.png" width="200" height="350" />
-[Numbers](https://github.com/vinchamp77/Numbers) | [QR Code Scanner](https://github.com/vinchamp77/QRCodeScanner)
-<img src="https://github.com/vinchamp77/Numbers/blob/master/screenshots/Screenshot_01_small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/QRCodeScanner/blob/master/screenshots/Screenshot_03_small.png" width="200" height="350" />
-[US Election Info](https://github.com/vinchamp77/USElectionInfo) | [Meditation Timer](https://github.com/vinchamp77/MeditationTimer)
-<img src="https://github.com/vinchamp77/USElectionInfo/blob/master/screenshots/ScreenShot04_Small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/MeditationTimer/blob/master/screenshots/ScreenShot_01_Small.png" width="200" height="350" />
+N/A | [YouTube Workouts](https://github.com/vinchamp77/YoutubeWorkout) | [Android Kotlin Weekly](https://github.com/vinchamp77/AndroidNews) | [Malaysian Sydney Food](https://github.com/vinchamp77/MalaysianSydneyFood)
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+N/A | <img src="https://github.com/vinchamp77/YoutubeWorkouts/blob/master/screenshots/Screenshot_01_small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/AndroidNews/blob/master/screenshots/Screenshot_01_Small.png" width="200" height="350" /> |<img src="https://github.com/vinchamp77/MalaysianSydneyFood/blob/master/screenshots/ScreenShot_01_Small.png" width="200" height="350" /> 
+[Numbers](https://github.com/vinchamp77/Numbers) | [QR Code Scanner](https://github.com/vinchamp77/QRCodeScanner) | [US Election Info](https://github.com/vinchamp77/USElectionInfo) | [Meditation Timer](https://github.com/vinchamp77/MeditationTimer)
+<img src="https://github.com/vinchamp77/Numbers/blob/master/screenshots/Screenshot_01_small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/QRCodeScanner/blob/master/screenshots/Screenshot_03_small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/USElectionInfo/blob/master/screenshots/ScreenShot04_Small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/MeditationTimer/blob/master/screenshots/ScreenShot_01_Small.png" width="200" height="350" />
 
 ## 🕮 Android Libraries
 - [Android Build Utilities](https://github.com/vinchamp77/buildutils)
