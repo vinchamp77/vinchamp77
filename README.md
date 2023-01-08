@@ -1,6 +1,6 @@
 # 👋 Hello!
 
-My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical Blogger. 🌱 I’m currently learning Android development and documenting all my learnings on my personal blog - [Android Kotlin Weekly](https://vtsen.hashnode.dev/).
+My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical Blogger. 🌱 I’m currently learning Android development and documenting all my learnings on my personal blog, [Vincent Tsen - Android Dev Blog](https://vtsen.hashnode.dev/).
 
 📫 I'm also available at [Twitter](https://twitter.com/vinchamp77), [Hashnode](https://hashnode.com/@vtsen), [Medium](https://vtsen.medium.com/), and [Dev.to](https://dev.to/vtsen). 💞️ Let's connect and be friends! We should all learn and grow together!  
 
