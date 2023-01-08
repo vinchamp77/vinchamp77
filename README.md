@@ -13,25 +13,20 @@ N/A | <img src="https://github.com/vinchamp77/YoutubeWorkouts/blob/master/screen
 [Numbers](https://github.com/vinchamp77/Numbers) | [QR Code Scanner](https://github.com/vinchamp77/QRCodeScanner) | [US Election Info](https://github.com/vinchamp77/USElectionInfo) | [Meditation Timer](https://github.com/vinchamp77/MeditationTimer)
 <img src="https://github.com/vinchamp77/Numbers/blob/master/screenshots/Screenshot_01_small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/QRCodeScanner/blob/master/screenshots/Screenshot_03_small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/USElectionInfo/blob/master/screenshots/ScreenShot04_Small.png" width="200" height="350" /> | <img src="https://github.com/vinchamp77/MeditationTimer/blob/master/screenshots/ScreenShot_01_Small.png" width="200" height="350" />
 
-## 🕮 Android Libraries
+## 📚 Android Libraries
 - [Android Build Utilities](https://github.com/vinchamp77/buildutils)
 
 ## 📱 Demo Apps
-N/A | [Simple Google Map](https://github.com/vinchamp77/Demo_SimpleGoogleMap) |
-:-------------------------:|:-------------------------:
-N/A | <img src="https://github.com/vinchamp77/Demo_SimpleGoogleMap/blob/master/screenshots/Simple_Google_Map_App_Jetpack_Compose_01.gif" width="200" height="350" /> |
-[Simple REST API](https://github.com/vinchamp77/Demo_SimpleRestAPI) | [Compose Navigation](https://github.com/vinchamp77/Demo_SimpleNavigationCompose)
-<img src="https://github.com/vinchamp77/Demo_SimpleRestAPI/blob/master/screenshots/Simple_REST_API_Android_App_in_Kotlin_01.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/Demo_SimpleNavigationCompose/blob/master/screenshots/Simple_Jetpack_Compose_Navigation_Example_01.gif" width="200" height="350" />
-[RecycleView / Lazy Column](https://github.com/vinchamp77/Demo_SimpleRecycleView) | [Coroutines Basics](https://github.com/vinchamp77/Demo_CoroutinesBasics) |
-<img src="https://github.com/vinchamp77/Demo_SimpleRecycleView/blob/master/screenshots/Android_RecycleView_Demo_01.gif" width="200" height="350" /> | <img src="https://github.com/vinchamp77/Demo_CoroutinesBasics/blob/master/screenshots/Kotlin_Coroutines_Basics_Simple_Android_App_Demo_01.gif" width="200" height="350" /> |
-
-
-## 📚 Other Demo Apps
-- [Understand CoroutineScope Demo App](https://github.com/vinchamp77/Demo_CoroutineScope)
+- [CoroutineScope Demo App](https://github.com/vinchamp77/Demo_CoroutineScope)
 - [Asynchronous Flow Demo App](https://github.com/vinchamp77/Demo_AsyncFlow)
 - [Understand Compose Concept](https://github.com/vinchamp77/Demo_UnderstandComposeConcept)
 - [Activity & View Model Lifecycles Demo App](https://github.com/vinchamp77/Demo_UnderstandLifecycles)
+- [Simple Google Map](https://github.com/vinchamp77/Demo_SimpleGoogleMap)
+- [Simple REST API Android App](https://github.com/vinchamp77/Demo_SimpleRestAPI) 
 - [Clean Empty Jetpack Compose App Template](https://github.com/vinchamp77/Demo_CleanEmptyCompose)
+- [Jetpack Compose Navigation Example](https://github.com/vinchamp77/Demo_SimpleNavigationCompose)
+- [Simple Kotlin Coroutines App Demo](https://github.com/vinchamp77/Demo_CoroutinesBasics)
+- [RecycleView / Lazy Column Demo](https://github.com/vinchamp77/Demo_SimpleRecycleView)
 - [Android Kotlin Developer NanoDegree Projects](https://vtsen.hashnode.dev/android-kotlin-developer-nanodegree-projects-review)
 - [Simple Android Library Demo](https://github.com/vinchamp77/demo-simple-android-lib) (JitIPack.io)
 
