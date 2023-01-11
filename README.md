@@ -19,7 +19,6 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 - [Asynchronous Flow Demo App](https://github.com/vinchamp77/Demo_AsyncFlow)
 - [Understand Compose Concept](https://github.com/vinchamp77/Demo_UnderstandComposeConcept)
 - [Activity & View Model Lifecycles Demo App](https://github.com/vinchamp77/Demo_UnderstandLifecycles)
-- [Simple Google Map](https://github.com/vinchamp77/Demo_SimpleGoogleMap)
 - [Simple REST API Android App](https://github.com/vinchamp77/Demo_SimpleRestAPI) 
 - [Clean Empty Jetpack Compose App Template](https://github.com/vinchamp77/Demo_CleanEmptyCompose)
 - [Jetpack Compose Navigation Example](https://github.com/vinchamp77/Demo_SimpleNavigationCompose)
