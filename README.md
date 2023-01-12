@@ -5,7 +5,7 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 📫 I'm also available at [Twitter](https://twitter.com/vinchamp77), [Hashnode](https://hashnode.com/@vtsen), [Medium](https://vtsen.medium.com/), and [Dev.to](https://dev.to/vtsen). 💞️ Let's connect and be friends! We should all learn and grow together!  
 
 ---
-## 📱 Android Apps
+## 📱 Android Demo Apps
 
 <a href="https://github.com/vinchamp77/YoutubeWorkout"><img src="https://github.com/vinchamp77/YoutubeWorkouts/blob/master/screenshots/Screenshot_01_small.png" width="200" height="350" /></a> | <a href="https://github.com/vinchamp77/Demo_SimpleGoogleMap"><img src="https://github.com/vinchamp77/Demo_SimpleGoogleMap/blob/master/screenshots/Screenshot_01_small.png" width="200" height="350" /></a> | <a href="https://github.com/vinchamp77/AndroidNews"><img src="https://github.com/vinchamp77/AndroidNews/blob/master/screenshots/Screenshot_01_Small.png" width="200" height="350" /></a> | <a href="https://github.com/vinchamp77/MalaysianSydneyFood"><img src="https://github.com/vinchamp77/MalaysianSydneyFood/blob/master/screenshots/ScreenShot_01_Small.png" width="200" height="350" /></a>
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
@@ -14,7 +14,7 @@ My name is Vincent. I'm a hobbyist Native Android Kotlin Developer and Technical
 ## 📚 Android Libraries
 - [Android Build Utilities](https://github.com/vinchamp77/buildutils)
 
-## 📱 Demo Apps
+## 📱 Other Demo Apps
 - [CoroutineScope Demo App](https://github.com/vinchamp77/Demo_CoroutineScope)
 - [Asynchronous Flow Demo App](https://github.com/vinchamp77/Demo_AsyncFlow)
 - [Understand Compose Concept](https://github.com/vinchamp77/Demo_UnderstandComposeConcept)
