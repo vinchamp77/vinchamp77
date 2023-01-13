@@ -48,7 +48,7 @@ You may also want to check out my [Top 5 Most-read Articles](https://vtsen.hashn
 
 ---
 
-![Vincent Tsen's github stats](https://github-readme-stats.vercel.app/api?username=vinchamp77&show_icons=true&count_private=true&hide=issues,prs)
+![Vincent Tsen's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinchamp77&show_icons=true&count_private=true&hide=issues,prs)
 
 <!---
 vinchamp77/vinchamp77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
