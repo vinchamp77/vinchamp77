@@ -15,8 +15,8 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 - [How to add Version Catalog to your Android App?](https://vtsen.hashnode.dev/how-to-add-version-catalog-to-your-android-app)
 <!-- BLOG-POST-LIST:END -->
 
-## ✨ Most-read & Featured Articles
-- [Top 5 Most-read Articles](https://vtsen.hashnode.dev/top-5-articles)
+## ✨ Popular & Featured Articles
+- [Popular Articles](https://vtsen.hashnode.dev/popular-articles)
 - [Featured Articles](https://vtsen.hashnode.dev/featured-articles)
 
 ---
