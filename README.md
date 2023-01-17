@@ -6,6 +6,11 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 
 ---
 
+## 📱Featured App
+[![](https://github.com/vinchamp77/AndroidNews/blob/master/screenshots/Screenshot_01_Small.png)](https://github.com/vinchamp77/AndroidNews)
+
+---
+
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [What is Delegation Interface in Kotlin?](https://vtsen.hashnode.dev/what-is-delegation-interface-in-kotlin)
