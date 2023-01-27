@@ -9,6 +9,9 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 ## 📱Published Apps
 [![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673248566768/P097DsXZH.png)](https://play.google.com/store/apps/dev?id=6806749795902472253)
 
+## 🔔Featured App
+[![](https://github-readme-stats.vercel.app/api/pin/?username=vinchamp77&repo=AndroidNews)](https://github.com/vinchamp77/AndroidNews)
+
 ---
 
 ## 📝 Latest Blog Posts
