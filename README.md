@@ -16,11 +16,11 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Implement Default Splash Screen Prior to Android 12](https://vtsen.hashnode.dev/implement-default-splash-screen-prior-to-android-12)
 - [Side Effects Summary in Jetpack Compose](https://vtsen.hashnode.dev/side-effects-summary-in-jetpack-compose)
 - [What is Delegation Interface in Kotlin?](https://vtsen.hashnode.dev/what-is-delegation-interface-in-kotlin)
 - [DRY, KISS, and YAGNI to avoid Over-engineering Trap](https://vtsen.hashnode.dev/dry-kiss-and-yagni-to-avoid-over-engineering-trap)
 - [Convert Flow to SharedFlow and StateFlow](https://vtsen.hashnode.dev/convert-flow-to-sharedflow-and-stateflow)
-- [Exploring Different Ways to Collect Kotlin Flow](https://vtsen.hashnode.dev/exploring-different-ways-to-collect-kotlin-flow)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Popular & Featured Articles
