@@ -9,10 +9,10 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 ## 📱Published Apps
 [![](https://cdn.hashnode.com/res/hashnode/image/upload/v1673248566768/P097DsXZH.png)](https://play.google.com/store/apps/dev?id=6806749795902472253)
 
-## 🔔Featured Apps
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vinchamp77&repo=AndroidNews&theme=dark)](https://github.com/vinchamp77/AndroidNews)
+## 🔔Featured Repositories
+[![](https://github-readme-stats.vercel.app/api/pin/?username=vinchamp77&repo=AndroidNews&theme=dark)](https://github.com/vinchamp77/AndroidNews) [![](https://github-readme-stats.vercel.app/api/pin/?username=vinchamp77&repo=Demo_SimpleRestAPI&theme=dark)](https://github.com/vinchamp77/Demo_SimpleRestAPI) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=vinchamp77&repo=Demo_CleanEmptyCompose&theme=dark)](https://github.com/vinchamp77/Demo_CleanEmptyCompose) [![](https://github-readme-stats.vercel.app/api/pin/?username=vinchamp77&repo=buildutils&theme=dark)](https://github.com/vinchamp77/buildutils)
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=vinchamp77&repo=Demo_CleanEmptyCompose&theme=dark)](https://github.com/vinchamp77/Demo_CleanEmptyCompose)
 
 ---
 
