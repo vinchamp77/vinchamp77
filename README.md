@@ -18,11 +18,11 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Example to Use WorkManager and Notification](https://vtsen.hashnode.dev/simple-example-to-use-workmanager-and-notification)
 - [Convert Android App to Use Material 3 Design](https://vtsen.hashnode.dev/convert-android-app-to-use-material-3-design)
 - [Implement Default Splash Screen Prior to Android 12](https://vtsen.hashnode.dev/implement-default-splash-screen-prior-to-android-12)
 - [Side Effects Summary in Jetpack Compose](https://vtsen.hashnode.dev/side-effects-summary-in-jetpack-compose)
 - [What is Delegation Interface in Kotlin?](https://vtsen.hashnode.dev/what-is-delegation-interface-in-kotlin)
-- [DRY, KISS, and YAGNI to avoid Over-engineering Trap](https://vtsen.hashnode.dev/dry-kiss-and-yagni-to-avoid-over-engineering-trap)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Popular & Featured Articles
