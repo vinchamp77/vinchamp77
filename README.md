@@ -18,11 +18,11 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [What is Kotlin Reified Type Parameter?](https://vtsen.hashnode.dev/what-is-kotlin-reified-type-parameter)
 - [How to Debug Jetpack Compose Recomposition with Logging?](https://vtsen.hashnode.dev/how-to-debug-jetpack-compose-recomposition-with-logging)
 - [minSdk vs targetSdk vs compileSdk](https://vtsen.hashnode.dev/minsdk-vs-targetsdk-vs-compilesdk)
 - [Simple Example to Use WorkManager and Notification](https://vtsen.hashnode.dev/simple-example-to-use-workmanager-and-notification)
 - [Convert Android App to Use Material 3 Design](https://vtsen.hashnode.dev/convert-android-app-to-use-material-3-design)
-- [Implement Default Splash Screen Prior to Android 12](https://vtsen.hashnode.dev/implement-default-splash-screen-prior-to-android-12)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Popular & Featured Articles
