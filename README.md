@@ -18,11 +18,11 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Implement Custom Fonts using Downloadable Google Fonts?](https://vtsen.hashnode.dev/how-to-implement-custom-fonts-using-downloadable-google-fonts)
 - [What is Kotlin Reified Type Parameter?](https://vtsen.hashnode.dev/what-is-kotlin-reified-type-parameter)
 - [How to Debug Jetpack Compose Recomposition with Logging?](https://vtsen.hashnode.dev/how-to-debug-jetpack-compose-recomposition-with-logging)
 - [minSdk vs targetSdk vs compileSdk](https://vtsen.hashnode.dev/minsdk-vs-targetsdk-vs-compilesdk)
 - [Simple Example to Use WorkManager and Notification](https://vtsen.hashnode.dev/simple-example-to-use-workmanager-and-notification)
-- [Convert Android App to Use Material 3 Design](https://vtsen.hashnode.dev/convert-android-app-to-use-material-3-design)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Popular & Featured Articles
