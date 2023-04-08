@@ -18,11 +18,11 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Android Context 101 with Class Diagram](https://vtsen.hashnode.dev/android-context-101-with-class-diagram)
 - [Beginner&#39;s Guide to Understand Build Gradle Files in Android Studio](https://vtsen.hashnode.dev/beginners-guide-to-understand-build-gradle-files-in-android-studio)
 - [Android vs Desktop App Kotlin Compilation Process](https://vtsen.hashnode.dev/android-vs-desktop-app-kotlin-compilation-process)
 - [Kotlin Infix Notation is Confusing](https://vtsen.hashnode.dev/kotlin-infix-notation-is-confusing)
 - [How to Implement Custom Fonts using Downloadable Google Fonts?](https://vtsen.hashnode.dev/how-to-implement-custom-fonts-using-downloadable-google-fonts)
-- [What is Kotlin Reified Type Parameter?](https://vtsen.hashnode.dev/what-is-kotlin-reified-type-parameter)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Popular & Featured Articles
