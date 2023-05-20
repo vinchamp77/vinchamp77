@@ -18,11 +18,11 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simple Firebase Sign-in UI Demo App](https://vtsen.hashnode.dev/simple-firebase-sign-in-ui-demo-app)
 - [How to add Google Play In-app Review Dialog?](https://vtsen.hashnode.dev/how-to-add-google-play-in-app-review-dialog)
 - [How to Add Deep Links in Jetpack Compose?](https://vtsen.hashnode.dev/how-to-add-deep-links-in-jetpack-compose)
 - [Kotlin Flow - Combine, Merge and Zip](https://vtsen.hashnode.dev/kotlin-flow-combine-merge-and-zip)
 - [Flow, SharedFlow, StateFlow Class Diagram](https://vtsen.hashnode.dev/flow-sharedflow-stateflow-class-diagram)
-- [Pass by Value vs CompositionLocal vs Static CompositionLocal](https://vtsen.hashnode.dev/pass-by-value-vs-compositionlocal-vs-static-compositionlocal)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Popular & Featured Articles
