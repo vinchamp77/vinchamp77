@@ -31,7 +31,7 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 
 ---
 
-![Vincent Tsen's github stats](https://github-readme-stats.vercel.app/api?username=vinchamp77&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
+![Vincent Tsen's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=vinchamp77&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)
 
 <!---
 vinchamp77/vinchamp77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
