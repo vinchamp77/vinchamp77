@@ -18,11 +18,11 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Add Spotless Code Formatter to your Android Project?](https://vtsen.hashnode.dev/how-to-add-spotless-code-formatter-to-your-android-project)
 - [How to Request Android Runtime Permissions using Jetpack Compose?](https://vtsen.hashnode.dev/how-to-request-android-runtime-permissions-using-jetpack-compose)
 - [@RequiresApi&lpar;&rpar; and @ChecksSdkIntAtLeast&lpar;&rpar; Annotations](https://vtsen.hashnode.dev/requiresapi-and-checkssdkintatleast-annotations)
 - [Simple Preferences &amp; Proto DataStore Demo App](https://vtsen.hashnode.dev/simple-preferences-proto-datastore-demo-app)
 - [Simple Firebase Sign-in UI Demo App](https://vtsen.hashnode.dev/simple-firebase-sign-in-ui-demo-app)
-- [How to add Google Play In-app Review Dialog?](https://vtsen.hashnode.dev/how-to-add-google-play-in-app-review-dialog)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Popular & Featured Articles
