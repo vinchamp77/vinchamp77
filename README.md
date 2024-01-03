@@ -18,11 +18,11 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Convert KAPT to KSP - Room and Hilt Examples](https://vtsen.hashnode.dev/convert-kapt-to-ksp-room-and-hilt-examples)
 - [Equivalent Perforce Shelving Command in GitHub](https://vtsen.hashnode.dev/equivalent-perforce-shelving-command-in-github)
 - [Simplify ViewModelProvider.Factory&lpar;&rpar; Implementation with Kotlin Lambda and Object Expressions](https://vtsen.hashnode.dev/simplify-viewmodelproviderfactory-implementation-with-kotlin-lambda-and-object-expressions)
 - [Integrate Firebase Realtime Database and User Authentication into your Android App](https://vtsen.hashnode.dev/integrate-firebase-realtime-database-and-user-authentication-into-your-android-app)
 - [How to Add Spotless Code Formatter to your Android Project?](https://vtsen.hashnode.dev/how-to-add-spotless-code-formatter-to-your-android-project)
-- [How to Request Android Runtime Permissions using Jetpack Compose?](https://vtsen.hashnode.dev/how-to-request-android-runtime-permissions-using-jetpack-compose)
 <!-- BLOG-POST-LIST:END -->
 
 ## ✨ Popular & Featured Articles
