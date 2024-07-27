@@ -16,6 +16,9 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 ## 🤘Other Repositories 
 ### Published Apps
 [![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=QRCodeScanner&theme=dark)](https://github.com/vinchamp77/QRCodeScanner) [![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=USElectionInfo&theme=dark)](https://github.com/vinchamp77/USElectionInfo)
+[![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=MeditationTimer&theme=dark)](https://github.com/vinchamp77/MeditationTimer) [![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=MalaysianSydneyFood&theme=dark)](https://github.com/vinchamp77/MalaysianSydneyFood)
+[![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Numbers&theme=dark)](https://github.com/vinchamp77/Numbers) 
+
 ### Demo Apps
 ---
 
