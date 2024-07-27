@@ -20,6 +20,15 @@ My name is Vincent. I'm a self-taught hobbyist Native Android Kotlin Developer a
 [![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Numbers&theme=dark)](https://github.com/vinchamp77/Numbers) 
 
 ### Demo Apps
+[![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_FirebaseSignInRealtimeDB&theme=dark)](https://github.com/vinchamp77/Demo_FirebaseSignInRealtimeDB) [![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_SimpleGoogleMap&theme=dark)](https://github.com/vinchamp77/Demo_SimpleGoogleMap)
+[![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_UnderstandLifecycles&theme=dark)](https://github.com/vinchamp77/Demo_UnderstandLifecycles) [![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_AsyncFlow&theme=dark)](https://github.com/vinchamp77/Demo_AsyncFlow)
+[![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_ViewModelFactory&theme=dark)](https://github.com/vinchamp77/Demo_ViewModelFactory) [![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_WorkManager&theme=dark)](https://github.com/vinchamp77/Demo_WorkManager)
+[![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_SimpleNavigationCompose&theme=dark)](https://github.com/vinchamp77/Demo_SimpleNavigationCompose) [![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_RuntimePermission&theme=dark)](https://github.com/vinchamp77/Demo_RuntimePermission)
+[![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_DataStore&theme=dark)](https://github.com/vinchamp77/Demo_DataStore) [![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=demo-simple-android-lib&theme=dark)](https://github.com/vinchamp77/demo-simple-android-lib)
+[![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_CoroutineScope&theme=dark)](https://github.com/vinchamp77/Demo_CoroutineScope) [![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_CoroutinesBasics&theme=dark)](https://github.com/vinchamp77/Demo_CoroutinesBasics)
+[![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_UnderstandComposeConcept&theme=dark)](https://github.com/vinchamp77/Demo_UnderstandComposeConcept) [![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=YoutubeWorkouts&theme=dark)](https://github.com/vinchamp77/YoutubeWorkouts)
+[![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_ComposeSideEffects&theme=dark)](https://github.com/vinchamp77/Demo_ComposeSideEffects) [![](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=vinchamp77&repo=Demo_SimpleRecycleView&theme=dark)](https://github.com/vinchamp77/Demo_SimpleRecycleView)
+
 ---
 
 ## 📝 Latest Blog Posts
